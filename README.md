@@ -1,12 +1,17 @@
 # myapp
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+An simple AngularJS singlepage app which makes use of appserver-io as a backend RESTful service as shown in a tutorial.
 
-## Build & development
+## More Informations
 
-Run `grunt` for building and `grunt serve` for preview.
+Goto http://appserver.io/get-started/tutorials/building-webapps-using-angular-and-appserver-io.html to get more information how the app is built from the scratch.
 
-## Testing
+### Simple installation
 
-Running `grunt test` will run the unit tests with karma.
+```bash
+cd /opt/appserver/webapps
+git clone https://github.com/appserver-io-apps/tutorial-angularjs.git myapp
+sudo /etc/init.d/appserver restart
+```
+
+**IMPORTANT**: Please also follow the virtual-hosts configuration instructions to get this demo app working. 
