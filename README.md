@@ -1,4 +1,4 @@
-# myapp
+# A WebApp demonstrating AngularJS and appserver.io as RESTful service.
 
 An simple AngularJS singlepage app which makes use of appserver-io as a backend RESTful service as shown in a tutorial.
 
