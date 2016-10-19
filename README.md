@@ -4,7 +4,7 @@ An simple AngularJS singlepage app which makes use of appserver-io as a backend 
 
 ## More Informations
 
-Goto http://appserver.io/get-started/tutorials/building-webapps-using-angular-and-appserver-io.html to get more information how the app is built from the scratch.
+Goto http://appserver.io/get-started/tutorials/building-webapps-using-angular-js-and-appserver-io.html to get more information how the app is built from the scratch.
 
 ### Simple installation
 
